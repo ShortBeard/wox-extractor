@@ -1,4 +1,4 @@
-# wox-extractor
+# World of Xeen Extractor 
 A resource extractor for Might and Magic 4-5: World of Xeen written in Rust
 
 <h3>Building:</h3>
