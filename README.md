@@ -1,5 +1,5 @@
 # wox-extractor
-A resource extractor for MM4-5: World of Xeen written in Rust
+A resource extractor for Might and Magic 4-5: World of Xeen written in Rust
 
 <h3>Building:</h3>
 1. Clone repo</br>
